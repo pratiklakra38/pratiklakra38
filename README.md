@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- PIXEL NAME via image -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=99999&pause=10000000&color=00D9FF&center=true&vCenter=true&width=700&height=110&lines=PRATIK+LAKRA" alt="Pratik Lakra" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=1&pause=10000000&color=00D9FF&center=true&vCenter=true&width=700&height=110&lines=PRATIK+LAKRA" alt="Pratik Lakra" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
