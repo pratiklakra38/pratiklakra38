@@ -2,12 +2,14 @@
 <div align="center">
 
 <!-- PIXEL NAME via image -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=99999&pause=99999&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=PRATIK+LAKRA" alt="Pratik Lakra" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=99999&pause=10000000&color=00D9FF&center=true&vCenter=true&width=700&height=110&lines=PRATIK+LAKRA" alt="Pratik Lakra" />
 
-<sub><code>B.Tech CSE · Symbiosis Institute of Technology · 2023–2027</code></sub>
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=AI+Builder;Full+Stack+Developer;Generative+AI+Enthusiast;Building+AI+Products;Visual+Storyteller;Backend+Developer;Always+Learning" alt="Typing SVG" />
+</a>
 
 <br/><br/>
-
 <!-- CONNECT — right under name -->
 <a href="https://www.linkedin.com/in/pratik-lakra-612820256/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,10 +25,7 @@
 
 <br/><br/>
 
-<!-- TYPING SVG — fixed syntax -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=45&lines=Computer+Science+Student;Full+Stack+Developer;AI+%2F+ML+Enthusiast;DSA+Problem+Solver;Future+Software+Engineer" alt="Typing SVG" />
-</a>
+
 
 </div>
 
