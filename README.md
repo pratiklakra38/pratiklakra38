@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28610885/README.md)
 <div align="center">
 
 <!-- PIXEL NAME via image -->
@@ -101,6 +100,26 @@ const pratik = {
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" />
 
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 📊 &nbsp; GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratiklakra38&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiklakra38&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" height="180" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=pratiklakra38&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratiklakra38&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
