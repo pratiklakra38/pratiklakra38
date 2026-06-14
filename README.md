@@ -123,6 +123,14 @@ const pratik = {
 
 </div>
 
+## 🐍 Snake eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratiklakra38/pratiklakra38/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratiklakra38/pratiklakra38/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pratiklakra38/pratiklakra38/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ## 🚀 &nbsp; Featured Projects
