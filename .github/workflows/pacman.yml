@@ -14,17 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-node@v4
         with:
-          python-version: "3.11"
+          node-version: "20"
 
       - name: Install dependencies
-        run: pip install requests
+        run: npm install generate-snake-animation
 
       - name: Generate Pac-Man SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_pacman.py
+          GH_USERNAME: pratiklakra38
+        run: node scripts/generate_pacman.mjs
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
