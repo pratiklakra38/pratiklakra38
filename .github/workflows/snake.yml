@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: pratiklakra38
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?type=pacman
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&type=pacman
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
