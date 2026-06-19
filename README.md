@@ -122,6 +122,7 @@ const pratik = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratiklakra38&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" />
 
 </div>
+---
 
 ## 🕹 Pac-Man eating my contributions
 
